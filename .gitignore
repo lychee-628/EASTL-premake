@@ -49,5 +49,7 @@ Testing/*
 BUCKAROO_DEPS
 .vscode/settings.json
 
+#Premake setup
 bin-int/
 bin/
+**/Makefile

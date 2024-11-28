@@ -4,8 +4,6 @@ function IncludeEASTL(_path)
         string.format("%s/include", _path),
         string.format("%s/EABase/include/Common", _path)
     }
-    
-    print(_path)
 end
 
 project "EASTL"
